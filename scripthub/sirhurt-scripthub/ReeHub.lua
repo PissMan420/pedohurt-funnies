@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/botdevXD/ReeHub/main/ReeHub.lua", true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://drizzy23.github.io/PinkXWinning/PinkX/Script", true))()
